@@ -1,0 +1,6 @@
+{
+  "name": "Agam Battlegrounds",
+  "description": "3D tactical battle royale shooter featuring WASD movement, raycast gunplay, AI combatants, supply drops, and a shrinking Safe Zone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
